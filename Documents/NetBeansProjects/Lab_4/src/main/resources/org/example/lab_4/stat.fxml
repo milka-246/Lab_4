@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="70.0" maxWidth="1.7976931348623157E308" minHeight="70.0" prefHeight="70.0" style="-fx-border-color: black;" xmlns="http://javafx.com/javafx/17.0.6" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="name" alignment="CENTER" prefHeight="60.0" prefWidth="60.0" text="Label">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <Label fx:id="kol" alignment="CENTER" layoutX="60.0" maxWidth="1.7976931348623157E308" prefHeight="60.0" prefWidth="60.0" text="Label">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>
